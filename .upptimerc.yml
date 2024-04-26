@@ -9,7 +9,7 @@ sites:
     url: https://app.ecango.com/do/ping/
   - name: Ecango AI
     url: https://transcriber.ecango.com/ping/
-   - name: downtest
+  - name: downtest
     url: https://downtest.com
 
 
@@ -20,14 +20,14 @@ status-website:
   baseUrl: /uptime-final
   favicon: https://app.ecango.com/favicon.ico
   logoUrl: https://app.ecango.com/favicon.ico
-  name: Ecango Status
+  name: Ecango System Status
   introTitle: "**Ecango Status**"
   introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+   # - title: GitHub
+   #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
