@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "downtest",
-    "url": "https://somecrazydomain.com",
-    "icon": "https://icons.duckduckgo.com/ip3/somecrazydomain.com.ico",
-    "slug": "downtest",
-    "status": "down",
-    "uptime": "70.36%",
-    "uptimeDay": "70.36%",
-    "uptimeWeek": "70.36%",
-    "uptimeMonth": "70.36%",
-    "uptimeYear": "70.36%",
-    "time": 1002,
-    "timeDay": 1002,
-    "timeWeek": 1002,
-    "timeMonth": 1002,
-    "timeYear": 1002,
-    "dailyMinutesDown": {
-      "2024-04-26": 15
-    }
   }
 ]
