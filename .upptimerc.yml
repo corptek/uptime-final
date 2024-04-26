@@ -10,7 +10,7 @@ sites:
   - name: Ecango AI
     url: https://transcriber.ecango.com/ping/
   - name: downtest
-    url: https://downtest.com
+    url: https://somecrazydomain.com
 
 
 status-website:
